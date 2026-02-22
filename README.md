@@ -1,3 +1,14 @@
+<img width="1271" height="628" alt="image" src="https://github.com/user-attachments/assets/fd579af6-496e-40ca-afd9-f74ff037fbb6" />
+
+
+<img width="1220" height="621" alt="image" src="https://github.com/user-attachments/assets/4593d9b7-efb8-4709-9a1b-ff2896f7dcab" />
+
+
+<img width="1233" height="566" alt="image" src="https://github.com/user-attachments/assets/7eb13307-d80c-4063-9f03-b46ef88a832d" />
+
+
+
+
 # 📚 Kütüphane Yönetim Sistemi
 
 ASP.NET Core MVC (.NET 8) kullanılarak geliştirilmiş, katmanlı mimariye sahip bir **Kütüphane Yönetim Sistemi** projesidir.

@@ -4,7 +4,7 @@ ASP.NET Core MVC (.NET 8) kullanılarak geliştirilmiş, katmanlı mimariye sahi
 
 Bu projede kitaplar; yazar, kategori ve yayınevi bilgileriyle birlikte yönetilebilmektedir.
 
----
+
 
 ## 🚀 Kullanılan Teknolojiler
 
@@ -14,7 +14,7 @@ Bu projede kitaplar; yazar, kategori ve yayınevi bilgileriyle birlikte yönetil
 * **Frontend:** HTML, CSS, JavaScript
 * **Tasarım:** Bootstrap (Bootswatch – Lux Tema)
 
----
+
 
 ## 📊 Veritabanı Yapısı
 
@@ -36,7 +36,7 @@ Proje toplam 4 ana tablodan oluşmaktadır:
 
 Foreign Key ilişkileri kullanılarak veri bütünlüğü sağlanmıştır.
 
----
+
 
 ## 🛠️ Özellikler
 
@@ -47,7 +47,7 @@ Foreign Key ilişkileri kullanılarak veri bütünlüğü sağlanmıştır.
 ✔ BookVM kullanımı (ViewModel yapısı)
 ✔ Katmanlı ve Clean Code mimarisi
 
----
+
 
 ## 🖼️ Resim Yükleme
 
@@ -55,7 +55,7 @@ Foreign Key ilişkileri kullanılarak veri bütünlüğü sağlanmıştır.
 * Resimler `wwwroot/images/books` klasöründe saklanmaktadır.
 * Dosya isimleri GUID ile oluşturulur (çakışmayı önlemek için).
 
----
+
 
 ## 📌 Dashboard
 
@@ -68,7 +68,7 @@ Dashboard ekranı üzerinden sistemde bulunan:
 
 anlık olarak görüntülenebilmektedir.
 
----
+
 
 ## 🧱 Mimari Yapı
 
@@ -77,12 +77,10 @@ anlık olarak görüntülenebilmektedir.
 * Ortak tasarım `_Layout.cshtml` içerisinde toplanmıştır.
 * Kod yapısı temiz ve düzenlidir.
 
----
+
 
 ## 🎯 Proje Amacı
 
 Bu proje, ASP.NET Core MVC mimarisini öğrenmek,
 Entity Framework ile ilişkili veritabanı yapısı kurmak ve
 Full CRUD işlemlerini uygulamalı olarak geliştirmek amacıyla hazırlanmıştır.
-
----

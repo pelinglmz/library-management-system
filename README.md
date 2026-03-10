@@ -6,92 +6,63 @@
 
 <img width="1233" height="566" alt="image" src="https://github.com/user-attachments/assets/7eb13307-d80c-4063-9f03-b46ef88a832d" />
 
+📚 **Library Management System**
+This is a **Library Management System** project developed using **ASP.NET Core MVC (.NET 8)** with a layered architecture.
 
+In this project, books can be managed together with their **author, category, and publisher** information.
 
+🚀 **Technologies Used**
+Backend: ASP.NET Core MVC (.NET 8)
+ORM: Entity Framework Core
+Database: SQLite
+Frontend: HTML, CSS, JavaScript
+Design: Bootstrap (Bootswatch – Lux Theme)
 
-# 📚 Kütüphane Yönetim Sistemi
+📊 **Database Structure**
+The project consists of **4 main tables**:
 
-ASP.NET Core MVC (.NET 8) kullanılarak geliştirilmiş, katmanlı mimariye sahip bir **Kütüphane Yönetim Sistemi** projesidir.
+* Books
+* Authors
+* Categories
+* Publishers
 
-Bu projede kitaplar; yazar, kategori ve yayınevi bilgileriyle birlikte yönetilebilmektedir.
+🔗 **Relationships (1-M)**
+Each book has:
 
+* 1 author
+* 1 category
+* 1 publisher
 
+One author, category, or publisher can be associated with multiple books.
 
-## 🚀 Kullanılan Teknolojiler
+**Data integrity** is ensured using **Foreign Key relationships**.
 
-* **Backend:** ASP.NET Core MVC (.NET 8)
-* **ORM:** Entity Framework Core
-* **Veritabanı:** SQLite
-* **Frontend:** HTML, CSS, JavaScript
-* **Tasarım:** Bootstrap (Bootswatch – Lux Tema)
+🛠️ **Features**
+✔ Full CRUD operations (Create, List, Update, Delete)
+✔ Total record counts displayed on the dashboard
+✔ Secure data selection using dropdown lists
+✔ Data integrity ensured with the Restrict delete rule
+✔ BookVM usage (ViewModel structure)
+✔ Layered and Clean Code architecture
 
+🖼️ **Image Upload**
+Book cover images can be uploaded.
+Images are stored in the **wwwroot/images/books** folder.
+File names are generated using **GUID** to prevent conflicts.
 
+📌 **Dashboard**
+Through the dashboard screen, the system can instantly display:
 
-## 📊 Veritabanı Yapısı
+* Total Number of Books
+* Total Number of Authors
+* Total Number of Categories
+* Total Number of Publishers
 
-Proje toplam 4 ana tablodan oluşmaktadır:
+🧱 **Architecture**
+The project uses the **MVC architecture**.
+**Dependency Injection** is implemented.
+The common layout design is centralized in **_Layout.cshtml**.
+The code structure is clean and well organized.
 
-* Books (Kitaplar)
-* Authors (Yazarlar)
-* Categories (Kategoriler)
-* Publishers (Yayınevleri)
-
-### 🔗 İlişkiler (1-M)
-
-* Her kitabın:
-
-  * 1 yazarı
-  * 1 kategorisi
-  * 1 yayınevi vardır.
-* Bir yazar, kategori veya yayınevine birden fazla kitap bağlı olabilir.
-
-Foreign Key ilişkileri kullanılarak veri bütünlüğü sağlanmıştır.
-
-
-
-## 🛠️ Özellikler
-
-✔ Full CRUD işlemleri (Ekle, Listele, Güncelle, Sil)
-✔ Dashboard ekranında toplam kayıt sayıları
-✔ Dropdown listeler ile güvenli veri seçimi
-✔ Restrict silme kuralı ile veri bütünlüğü
-✔ BookVM kullanımı (ViewModel yapısı)
-✔ Katmanlı ve Clean Code mimarisi
-
-
-
-## 🖼️ Resim Yükleme
-
-* Kitaplara kapak resmi eklenebilmektedir.
-* Resimler `wwwroot/images/books` klasöründe saklanmaktadır.
-* Dosya isimleri GUID ile oluşturulur (çakışmayı önlemek için).
-
-
-
-## 📌 Dashboard
-
-Dashboard ekranı üzerinden sistemde bulunan:
-
-* Toplam Kitap Sayısı
-* Toplam Yazar Sayısı
-* Toplam Kategori Sayısı
-* Toplam Yayınevi Sayısı
-
-anlık olarak görüntülenebilmektedir.
-
-
-
-## 🧱 Mimari Yapı
-
-* MVC mimarisi kullanılmıştır.
-* Dependency Injection uygulanmıştır.
-* Ortak tasarım `_Layout.cshtml` içerisinde toplanmıştır.
-* Kod yapısı temiz ve düzenlidir.
-
-
-
-## 🎯 Proje Amacı
-
-Bu proje, ASP.NET Core MVC mimarisini öğrenmek,
-Entity Framework ile ilişkili veritabanı yapısı kurmak ve
-Full CRUD işlemlerini uygulamalı olarak geliştirmek amacıyla hazırlanmıştır.
+🎯 **Project Purpose**
+This project was created to **learn the ASP.NET Core MVC architecture, build a relational database structure using Entity Framework, and practically implement Full CRUD operations**.

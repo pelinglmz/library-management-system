@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\publisher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\publisher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\publisher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\publisher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\models\\viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\models\\viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\publisher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\publisher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|c:\\users\\msi\\documents\\kitaplikyonetim\\kitaplikyonetim\\kitaplikyonetim\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E1532B-9578-BB34-B98E-AC7EC74A5C03}|KitaplikYonetim\\KitaplikYonetim.csproj|solutionrelative:kitaplikyonetim\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:54.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:46:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:46:58.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:40.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:42.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:34.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:31.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Program.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Program.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:52:03.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:33.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardVM.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Models\\ViewModels\\DashboardVM.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Models\\ViewModels\\DashboardVM.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Models\\ViewModels\\DashboardVM.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Models\\ViewModels\\DashboardVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:10:02.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:58:58.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:17.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:14.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:19.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Publisher\\Index.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Publisher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Publisher\\Index.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Publisher\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:49.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Publisher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Publisher\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Publisher\\Edit.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Publisher\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:48.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Publisher\\Create.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Publisher\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Publisher\\Create.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Publisher\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:46.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\appsettings.json",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\appsettings.json",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\appsettings.json",
+              "RelativeToolTip": "KitaplikYonetim\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T04:52:00.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:51:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:51:58.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:51:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:51:54.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Author\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:10.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:09.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Views\\Author\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "KitaplikYonetim\\Views\\Author\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T04:47:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Controllers\\PublisherController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Controllers\\PublisherController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:47:00.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\BookController.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv3YAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:46:38.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T04:46:31.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KitaplikYonetim\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\KitaplikYonetim\\KitaplikYonetim\\KitaplikYonetim\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KitaplikYonetim\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:49:32.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

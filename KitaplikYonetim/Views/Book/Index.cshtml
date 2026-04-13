@@ -1,0 +1,51 @@
+﻿@model IEnumerable<KitaplikYonetim.Models.Entities.Book>
+
+<div class="container mt-4">
+    <div class="row mb-3">
+        <div class="col-6"><h2>Kitap Listesi</h2></div>
+        <div class="col-6 text-end">
+            <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Yeni Kitap Ekle</a>
+        </div>
+    </div>
+
+    <table class="table table-bordered table-striped shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Kapak</th>
+                <th>Kitap Adı</th>
+                <th>Kategori</th>
+                <th>Yazar</th>
+                <th class="text-center">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            { @* Burada 'item' ismini verdik *@
+                <tr>
+                    <td width="10%">
+                        @if (!string.IsNullOrEmpty(item.ImagePath))
+                        {
+                            <img src="@item.ImagePath" class="rounded shadow" width="100" />
+                        }
+                    </td>
+                    <td>@item.Title</td>
+                    <td>@(item.Category != null ? item.Category.Name : "Kategori Yok")</td>
+                    <td>@(item.Author != null ? item.Author.FullName : "Yazar Yok")</td>
+                    <td class="text-center">
+                        @* CRUD BUTONLARI *@
+                        <div class="btn-group" role="group">
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm text-white mx-1">
+                                <i class="bi bi-pencil-square"></i> Düzenle
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@item.Id"
+                               class="btn btn-danger btn-sm mx-1"
+                               onclick="return confirm('Bu kitabı silmek istediğinize emin misiniz?')">
+                                <i class="bi bi-trash-fill"></i> Sil
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<KitaplikYonetim.Models.Entities.Publisher>
+<div class="container mt-4">
+    <div class="card shadow border-0">
+        <div class="card-header bg-info bg-gradient ml-0 py-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="text-white py-2 text-uppercase">Yayınevi Listesi</h2>
+                </div>
+            </div>
+        </div>
+        <div class="card-body p-4">
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger">@TempData["Error"]</div>
+            }
+            <div class="text-end pb-3">
+                <a asp-action="Create" class="btn btn-primary">Yeni Yayınevi Ekle</a>
+            </div>
+            <table class="table table-bordered table-striped">
+                <thead><tr><th>Yayınevi Adı</th><th>İşlemler</th></tr></thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td class="text-center">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm text-white">Düzenle</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

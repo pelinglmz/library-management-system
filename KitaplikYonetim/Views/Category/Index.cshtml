@@ -1,0 +1,63 @@
+﻿@model IEnumerable<KitaplikYonetim.Models.Entities.Category>
+
+<div class="container mt-4">
+    <div class="card shadow border-0">
+
+        <div class="card-header bg-info bg-gradient ml-0 py-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h2 class="text-white py-2 text-uppercase">Kategori Listesi</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-body p-4">
+
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <i class="bi bi-exclamation-triangle-fill"></i> @TempData["Error"]
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            }
+
+            <div class="row pb-3">
+                <div class="col-6"></div>
+                <div class="col-6 text-end">
+                    <a asp-action="Create" class="btn btn-dark">
+                        <i class="bi bi-plus-circle"></i> YENİ KATEGORİ EKLE
+                    </a>
+                </div>
+            </div>
+
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>KATEGORİ ADI</th>
+                        <th class="text-center">İŞLEMLER</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td width="70%">@item.Name</td>
+                            <td class="text-center">
+                                <div class="btn-group" role="group">
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm text-white mx-1">
+                                        <i class="bi bi-pencil-square"></i> DÜZENLE
+                                    </a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id"
+                                       class="btn btn-danger btn-sm mx-1"
+                                       onclick="return confirm('Bu kaydı silmek istediğinize emin misiniz?')">
+                                        <i class="bi bi-trash-fill"></i> SİL
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

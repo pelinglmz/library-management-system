@@ -1,0 +1,57 @@
+﻿@model KitaplikYonetim.Models.ViewModels.BookVM
+
+<div class="container mt-4">
+    <div class="card shadow border-0">
+        <div class="card-header bg-warning bg-gradient py-3">
+            <h2 class="text-white text-center">Kitap Düzenle</h2>
+        </div>
+        <div class="card-body p-4">
+            <form method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Book.Id" />
+                <input type="hidden" asp-for="Book.ImagePath" />
+
+                <div class="border p-3">
+                    <div class="form-floating py-2 col-12">
+                        <input asp-for="Book.Title" class="form-control border-0 shadow" />
+                        <label>Kitap Adı</label>
+                    </div>
+
+                    <div class="form-floating py-2 col-12">
+                        <select asp-for="Book.CategoryId" asp-items="@Model.CategoryList" class="form-select border-0 shadow">
+                            <option disabled selected>-- Kategori Seçin --</option>
+                        </select>
+                        <label>Kategori</label>
+                    </div>
+
+                    <div class="form-floating py-2 col-12">
+                        <select asp-for="Book.PublisherId" asp-items="@Model.PublisherList" class="form-select border-0 shadow">
+                            <option disabled selected>--Yayınevi Seçin--</option>
+                        </select>
+                        <label asp-for="Book.PublisherId" class="ms-2"></label>
+                    </div>
+
+                    <div class="form-floating py-2 col-12">
+                        <select asp-for="Book.AuthorId" asp-items="@Model.AuthorList" class="form-select border-0 shadow">
+                            <option disabled selected>-- Yazar Seçin --</option>
+                        </select>
+                        <label>Yazar</label>
+                    </div>
+
+                    <div class="py-2 col-12 text-center">
+                        <img src="@Model.Book.ImagePath" width="150" class="rounded shadow mb-2" />
+                        <input type="file" name="file" class="form-control border-0 shadow" />
+                    </div>
+
+                    <div class="row pt-2">
+                        <div class="col-6">
+                            <button type="submit" class="btn btn-warning text-white form-control">Güncelle</button>
+                        </div>
+                        <div class="col-6">
+                            <a asp-action="Index" class="btn btn-outline-secondary form-control">Vazgeç</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

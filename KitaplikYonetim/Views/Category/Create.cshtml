@@ -1,0 +1,27 @@
+﻿@model KitaplikYonetim.Models.Entities.Category
+
+<div class="container mt-4">
+    <div class="card shadow border-0">
+        <div class="card-header bg-secondary bg-gradient py-3">
+            <h2 class="text-white text-center">Yeni Kategori Ekle</h2>
+        </div>
+        <div class="card-body p-4">
+            <form method="post">
+                <div class="border p-3">
+                    <div class="form-floating py-2 col-12">
+                        <input asp-for="Name" class="form-control" />
+                        <label>Kategori Adı</label>
+                    </div>
+                    <div class="row pt-2">
+                        <div class="col-6">
+                            <button type="submit" class="btn btn-primary form-control">Kaydet</button>
+                        </div>
+                        <div class="col-6">
+                            <a asp-action="Index" class="btn btn-outline-secondary form-control">Listeye Dön</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

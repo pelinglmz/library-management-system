@@ -4,64 +4,96 @@
 
 <img width="1271" height="628" alt="image" src="https://github.com/user-attachments/assets/6462e239-02df-4766-9858-c5a3066b8c26" />
 
-📚 Library Management System
-This is a Library Management System project developed using ASP.NET Core MVC (.NET 8) with a layered architecture.
+# 📚 Library Management System
 
-In this project, books can be managed together with their author, category, and publisher information.
+This is a **Library Management System** project developed using **ASP.NET Core MVC (.NET 8)** with a layered architecture.
 
-🚀 Technologies Used
-Backend: ASP.NET Core MVC (.NET 8)
-ORM: Entity Framework Core
-Database: SQLite
-Frontend: HTML, CSS, JavaScript
-Design: Bootstrap (Bootswatch – Lux Theme)
-📊 Database Structure
+In this project, books can be managed together with their **author, category, and publisher** information.
+
+---
+
+## 🚀 Technologies Used
+
+- **Backend:** ASP.NET Core MVC (.NET 8)
+- **ORM:** Entity Framework Core
+- **Database:** SQLite
+- **Frontend:** HTML, CSS, JavaScript
+- **Design:** Bootstrap (Bootswatch – Lux Theme)
+
+---
+
+## 📊 Database Structure
+
 The project consists of 4 main tables:
 
-Books
-Authors
-Categories
-Publishers
-🔗 Relationships (1-M)
+- Books
+- Authors
+- Categories
+- Publishers
+
+### 🔗 Relationships (1-M)
+
 Each book has:
 
-1 author
-1 category
-1 publisher
+- 1 author  
+- 1 category  
+- 1 publisher  
+
 One author, category, or publisher can be associated with multiple books.
 
-Data integrity is ensured using Foreign Key relationships.
+Data integrity is ensured using **Foreign Key relationships**.
 
-🛠️ Features
-✔ Full CRUD operations (Create, List, Update, Delete)
-✔ Total record counts displayed on the dashboard
-✔ Secure data selection using dropdown lists
-✔ Data integrity ensured with the Restrict delete rule
-✔ BookVM usage (ViewModel structure)
-✔ Layered and Clean Code architecture
+---
 
-🖼️ Image Upload
+## 🛠️ Features
+
+- ✔ Full CRUD operations (Create, List, Update, Delete)
+- ✔ Total record counts displayed on the dashboard
+- ✔ Secure data selection using dropdown lists
+- ✔ Data integrity ensured with the Restrict delete rule
+- ✔ BookVM usage (ViewModel structure)
+- ✔ Layered and Clean Code architecture
+
+---
+
+## 🖼️ Image Upload
+
 Book cover images can be uploaded.
 
-Images are stored in the:
+Images are stored in:
 
 wwwroot/images/books
 
-folder.
 
-File names are generated using GUID to prevent conflicts.
+File names are generated using **GUID** to prevent conflicts.
 
-📌 Dashboard
+---
+
+## 📌 Dashboard
+
 Through the dashboard screen, the system can instantly display:
 
-Total Number of Books
-Total Number of Authors
-Total Number of Categories
-Total Number of Publishers
-🧱 Architecture
-The project uses MVC architecture.
-Dependency Injection is implemented.
-The common layout design is centralized in _Layout.cshtml.
-The code structure is clean and well organized.
-🎯 Project Purpose
-This project was created to learn the ASP.NET Core MVC architecture, build a relational database structure using Entity Framework, and practically implement Full CRUD operations.
+- Total Number of Books
+- Total Number of Authors
+- Total Number of Categories
+- Total Number of Publishers
+
+---
+
+## 🧱 Architecture
+
+The project uses **MVC architecture**.
+
+- Dependency Injection is implemented.
+- The common layout design is centralized in `_Layout.cshtml`.
+- The code structure is clean and well organized.
+
+---
+
+## 🎯 Project Purpose
+
+This project was created to:
+
+- Learn the ASP.NET Core MVC architecture  
+- Build a relational database structure using Entity Framework  
+- Practically implement Full CRUD operations  
